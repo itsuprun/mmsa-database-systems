@@ -16,3 +16,6 @@
 [awesome]: https://github.com/sindresorhus/awesome
 [mmsa-database-systems]: https://github.com/lrochka/mmsa-database-systems
 2. "Vdovichenko" "Dmitro", *"Movies and TV Shows DataBase"* https://github.com/bataisk/db_course_work.git
+15. Pyvovar Pavlo,
+    *"Concurrency, parallelism & locking in modern databases"*
+    https://github.com/Pavel-Pyvovar/db_course_work.git
