@@ -8,4 +8,16 @@
 1. "Last name" "First name", *"Project topic"* Repository Link
 
 ## KA-76 info  
+
+
+
+
+
+
+
+
+
+
 21. Chynnyk Petro, *Hospital* https://github.com/ChynPet/hospital
+
+
