@@ -9,6 +9,7 @@
 
 ## KA-75 info  
 1. "Last name" "First name", *"Project topic"* Repository Link
+4. Karachev Vladyslav, Phone Comparison site https://github.com/vladkarachov/course-work-db
 5. Kryva Anna *"Language courses abroad"* https://github.com/anna-kryva/database-course-work.git
 9. Osetrov Anton, Sport Training Helper Site https://github.com/osetr/sport-helper.git
 13. Sierykh Julia, *Cinema Web Site* [repo]: https://github.com/Julia-22/cinema_web
