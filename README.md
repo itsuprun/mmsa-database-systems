@@ -10,13 +10,16 @@
 ## KA-75 info  
 1. "Last name" "First name", *"Project topic"* Repository Link
 5. Kryva Anna *"Language courses abroad"* https://github.com/anna-kryva/database-course-work.git
+9. Osetrov Anton, Sport Training Helper Site https://github.com/osetr/sport-helper.git
 13. Sierykh Julia, *Cinema Web Site* [repo]: https://github.com/Julia-22/cinema_web
 16. Stepaniuk Vladyslav *Logistics Website* https://github.com/VladosK0k0s/Old_CourseWork
 18. Fedurko Mykola, Job Search Site https://github.com/B1Z0N/workspide
+
 19. Shevchuk Oleksij, "Jym training data base", https://github.com/spichka-vin/db_course_work
 
 3. Zagny Egor, *Honey store* https://github.com/EgorZagny/coursework3-db-web.git
 2. Braha Tetiana, *Website for a pizza restaurant* https://github.com/TaniaBraha/course_work_web.git
+
 
 ## KA-76 info  
 9. Mishchenko Daryna, *Beauty Products Internet Shop* https://github.com/missdaria77/DB_Mishchenko_KA-76.git  
