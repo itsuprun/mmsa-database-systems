@@ -37,4 +37,4 @@
 7. Kyzyurova Evgenia, *Online store of flowers* https://github.com/EvgeniaKyzyurova/course_work  
 
 9. Pashneva Olga, *Restaurant management system* https://github.com/olgapashneva/databases_final_project.git
-  
+21. Chynnyk Petro, *Hospital* https://github.com/ChynPet/hospital  
