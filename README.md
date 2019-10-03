@@ -25,7 +25,7 @@
 ## KA-76 info  
 
 9. Mishchenko Daryna, *Beauty Products Internet Shop* https://github.com/missdaria77/DB_Mishchenko_KA-76.git  
-1. Morkva Svitlana, *"Website for tourism with best places for visit DataBase"* https://github.com/lamialuce/db_coursework.git  
+10. Morkva Svitlana, *"Website for photografers"* https://github.com/lamialuce/db_coursework.git  
 15. Pyvovar Pavlo, *"Database for public transport notification service."* https://github.com/Pavel-Pyvovar/db_course_work.git
 17. Sobko Ivan, *"Game achievments tracker"* https://github.com/IvanSobko/game-achievements-db  
 18. Khylenko Valeriia, *Ski Resorts Info* https://github.com/vkhylenko/course_work_db_web  
