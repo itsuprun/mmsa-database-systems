@@ -22,6 +22,7 @@
 10. Pavlovskiy Yevhen, *Serials web site*, https://github.com/YevhenPavlovskiy/Course_work.git
 3. Zagny Egor, *Honey store* https://github.com/EgorZagny/coursework3-db-web.git
 2. Braha Tetiana, *Website for a pizza restaurant* https://github.com/TaniaBraha/course_work_web.git
+8. Nikitin Vlad Guitar songs website https://github.com/Nightowlswing/sql_basics
 
 
 ## KA-76 info  
