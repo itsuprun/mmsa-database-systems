@@ -40,5 +40,6 @@
 5. Zalevskyi Vladyslav, *Research Portfolio* https://github.com/Vivikar/portfolio  
 7. Kyzyurova Evgenia, *Online store of flowers* https://github.com/EvgeniaKyzyurova/course_work    
 12. Orkusha Alina, *Pop culture DataBase* https://github.com/alina0501/data-bases  
+13. Panasiuk Yaroslav, *Cook up* https://github.com/oYPIo/Cook-up 
 9. Pashneva Olga, *Restaurant management system* https://github.com/olgapashneva/databases_final_project.git
 21. Chynnyk Petro, *Hospital* https://github.com/ChynPet/hospital  
