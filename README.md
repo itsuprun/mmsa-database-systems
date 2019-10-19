@@ -17,6 +17,7 @@
 13. Sierykh Julia, *Cinema Web Site* [repo]: https://github.com/Julia-22/cinema_web
 16. Stepaniuk Vladyslav *Logistics Website* https://github.com/VladosK0k0s/Old_CourseWork
 18. Fedurko Mykola, Job Search Site https://github.com/B1Z0N/workspide
+17. Trofymov Pavlo, *Fork shop website* https://github.com/Fayarendill/fork_shop
 
 19. Shevchuk Oleksij, "Jym training data base", https://github.com/spichka-vin/db_course_work
 10. Pavlovskiy Yevhen, *Serials web site*, https://github.com/YevhenPavlovskiy/Course_work.git
