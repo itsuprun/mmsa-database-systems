@@ -25,6 +25,7 @@
 8. Nikitin Vlad Guitar songs website https://github.com/Nightowlswing/sql_basics
 1. Baskov Vlad, *"Lunar Station Website"* https://github.com/Viltexon/CourseWork_Website
 14. Sinitsa Anna, *Site for serials review* https://github.com/annasinitsa/ann_sinitsa_course_work
+17. Trofymov Pavlo, *Fork shop website* https://github.com/Fayarendill/fork_shop
 
 
 ## KA-76 info  
