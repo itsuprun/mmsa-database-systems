@@ -47,3 +47,4 @@
 13. Panasiuk Yaroslav, *Cook up* https://github.com/oYPIo/Cook-up 
 9. Pashneva Olga, *Restaurant management system* https://github.com/olgapashneva/databases_final_project.git
 21. Chynnyk Petro, *Hospital* https://github.com/ChynPet/hospital  
+16. Slavinskyi Vsevolod *"Online store for tea"* https://github.com/Visvaldis/teahouse
